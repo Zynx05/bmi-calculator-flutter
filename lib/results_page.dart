@@ -10,7 +10,7 @@ String getCond(){
     return "Underweight";
   }
   if(bmi >= 18.5 && bmi <= 24.9) {
-    return "Healty";
+    return "Healthy";
   }
   if(bmi >= 25 && bmi <= 30) {
     return "Overweight";
